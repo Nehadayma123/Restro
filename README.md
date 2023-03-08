@@ -1,2 +1,3 @@
-# Electronic_Shop_Website
-I made Electronic shop website using HTML and CSS
+# Restro
+Restrorant programme which calculate all over bill .
+Technology : C 
